@@ -15,8 +15,8 @@ _ROBILRD:   0/8   files,   0/13  kB
 
 _TROLLFR:  0/17  files,   0/26  kB
 
-Translation: 2/3   files, 415/443 kB
+Translation: 2/3   files, 417/445 kB
 
 ====================================
 
-_____full       107/317 files, 534/789 kB
+_____full       107/317 files, 536/791 kB
