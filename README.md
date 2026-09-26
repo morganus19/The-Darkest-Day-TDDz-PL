@@ -3,11 +3,11 @@
 
 components:
 
-_ESPURTA:   31/31  files,  26/26  kB
+_ESPURTA:   31/31  files,  26/26  kB DONE
 
-_ONSETO: 53/53  files,  76/76  kB
+_ONSETO: 53/53  files,  76/76  kB DONE
 
-_PURSKAL:   21/38  files,  17/29  kB
+_PURSKAL:   38/38  files,  29/29  kB DONE
 
 _RIATAVIN:   0/167 files,   0/176 kB
 
@@ -19,4 +19,4 @@ Translation: 2/3   files, 417/445 kB
 
 ====================================
 
-_____full       107/317 files, 536/791 kB
+_____full       124/317 files, 548/791 kB
