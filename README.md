@@ -13,10 +13,10 @@ _RIATAVIN:   0/167 files,   0/176 kB
 
 _ROBILRD:   0/8   files,   0/13  kB
 
-_TROLLFR:   7/17  files,  15/26  kB
+_TROLLFR:  17/17  files,  26/26  kB DONE
 
 Translation: 2/3   files, 417/445 kB
 
 ====================================
 
-_____full       131/317 files, 563/791 kB
+_____full       141/317 files, 574/791 kB
