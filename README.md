@@ -11,7 +11,7 @@ _PURSKAL:   38/38  files,  29/29  kB DONE
 
 _RIATAVIN:   0/167 files,   0/176 kB
 
-_ROBILRD:   0/8   files,   0/13  kB
+_ROBILRD:   8/8   files,   13/13  kB DONE
 
 _TROLLFR:  17/17  files,  26/26  kB DONE
 
@@ -19,4 +19,4 @@ Translation: 2/3   files, 417/445 kB
 
 ====================================
 
-_____full       141/317 files, 574/791 kB
+_____full       149/317 files, 587/791 kB
