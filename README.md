@@ -19,4 +19,4 @@ Translation: 2/3   files, 417/445 kB
 
 ====================================
 
-full TDDz PL:   191/317 files, 627/790 kB
+TDDz PL:   191/317 files, 627/790 kB
