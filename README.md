@@ -11,12 +11,12 @@ _PURSKAL:   38/38  files,  28/28  kB DONE
 
 _RIAT:  0/167 files,  0/167 kB
 
-_ROBILARD:   0/8   files,   0/13  kB
+_ROBILARD:   8/8   files,  13/13  kB DONE
 
-_TROLLFR:  0/17  files,  0/26  kB
+_TROLLFR:  17/17  files,  25/25  kB DONE
 
 Translation: 0/3   files, 0/445 kB
 
 ====================================
 
-TDDz PL:   69/317 files, 53/780 kB
+TDDz PL:   94/317 files, 91/779 kB
