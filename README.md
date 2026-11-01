@@ -5,7 +5,7 @@ components:
 
 _ESPURTA:   31/31  files,  25/25  kB DONE
 
-_ONSETO: 0/53  files,  0/76  kB
+_ONSETO: 53/53  files,  71/71  kB DONE
 
 _PURSKAL:   38/38  files,  28/28  kB DONE
 
@@ -19,4 +19,4 @@ Translation: 0/3   files, 0/445 kB
 
 ====================================
 
-TDDz PL:   94/317 files, 91/779 kB
+TDDz PL:   147/317 files, 162/774 kB
