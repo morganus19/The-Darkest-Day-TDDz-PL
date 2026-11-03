@@ -15,8 +15,8 @@ _ROBILARD:   8/8   files,  13/13  kB DONE
 
 _TROLLFR:  17/17  files,  25/25  kB DONE
 
-Translation: 0/3   files, 0/445 kB
+Translation: 3/3   files, 447/447 kB DONE
 
 ====================================
 
-TDDz PL:   147/317 files, 162/774 kB
+TDDz PL:   150/317 files, 609/776 kB
