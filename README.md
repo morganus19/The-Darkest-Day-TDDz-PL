@@ -1,5 +1,5 @@
 # The-Darkest-Day-TDDz-PL
-[under development] Polish translation for TDDz mod, fully revised
+[DONE] Polish translation for TDDz mod, fully revised
 
 components:
 
@@ -9,7 +9,7 @@ _ONSETO: 53/53  files,  71/71  kB DONE
 
 _PURSKAL:   38/38  files,  28/28  kB DONE
 
-_RIAT:  151/167 files,  140/162 kB
+_RIAT:  167/167 files,  162/162 kB DONE
 
 _ROBILARD:   8/8   files,  13/13  kB DONE
 
@@ -19,4 +19,4 @@ Translation: 3/3   files, 447/447 kB DONE
 
 ====================================
 
-TDDz PL:   301/317 files, 749/771 kB
+TDDz PL:   317/317 files, 771/771 kB DONE
