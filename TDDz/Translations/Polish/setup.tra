@@ -1,4 +1,4 @@
-@901000 = ~The Darkest Day nak³adka do EET~
+@901000 = ~The Darkest Day mod-nak³adka do EET: Rdzeñ~
 @901001 = ~The Darkest Day: Trollowy Bród~
 @901002 = ~The Darkest Day: Eshpurta~ 
 @901003 = ~The Darkest Day: Purskul~ 
@@ -7,7 +7,7 @@
 @901006 = ~The Darkest Day: Robillard~
 
 @901007 = ~U¿yj rozszerzonych przez mod BG Graphical Overhaul lokacji z BG I~
-@901111 = ~Musisz mieæ zainstalowany komponent g³ówny modyfikacji The Darkest Day~
+@901111 = ~Musisz mieæ zainstalowany Rdzeñ modyfikacji The Darkest Day~
 @901112 = ~Nie zainstalowano Baldur's Gate Graphical Overhaul~
 @901113 = ~Nie wykryto ¿adnego komponentu TDD~
 @901114 = ~Tylko dla EET i BGT~
@@ -125,7 +125,7 @@ Wygl¹da na to, ¿e nelantherscy piraci zaatakowali Doki Athkatli bez wyraŸnego po
 @10017 = ~Có¿ zatem teraz, panie?~
 @10018 = ~Cha, cha! O tak, podoba mi siê brzmienie s³owa „panie”. Doprawdy, ten jak¿e prosty klejnot zdzia³a³ cuda. Dziêki niemu wszystkie si³y Riatavin ugiê³y siê przed moj¹ wol¹. Wystarczy jedno moje s³owo, a rusz¹ na wojnê z Athkatl¹, rozumiesz? Tobie jednej oszczêdzi³em podporz¹dkowania, potrzebowa³em ciê bowiem do wykonania zadañ.~
 @10019 = ~Zawarliœmy umowê, Entreri! W zamian mia³eœ obsypaæ nasze miasto bogactwami z najœwietniejszej gildii Calimportu. W tej chwili uwolnij moich ¿o³nierzy!~
-@10020 = ~Ach, ale¿ moja droga... Oni bynajmniej nie s¹ twoimi ¿o³nierzami – i nigdy nie byli. Twój kapitan nigdy nie dotar³ do Athkatli, gdy¿ mój sztylet zatopi³ siê w jego plecach, gdy tylko wyruszy³ w drogê.~
+@10020 = ~Ach, ale¿ moja droga... Oni bynajmniej nie s¹ twoimi ¿o³nierzami... i nigdy nie byli. Twój kapitan nigdy nie dotar³ do Athkatli, gdy¿ mój sztylet zatopi³ siê w jego plecach, gdy tylko wyruszy³ w drogê.~
 @10021 = ~Od tamtej pory to ja sprawujê kontrolê. Tak naprawdê nigdy nawet nie zakosztowa³aœ w³adzy.~
 @10022 = ~A co z: „Artemis Entreri dzia³a w pojedynkê”?~
 @10023 = ~Moja droga, jeœli chodzi o Calimport, korzystam z wszelkiej dostêpnej pomocy. Kiedy jednak sprawa staje siê osobista, dzia³am w pojedynkê. A teraz w³aœnie tak siê dzieje. Stanowisz zatem wyj¹tek od regu³y. Nie mo¿emy na to pozwoliæ, prawda?~
@@ -148,7 +148,7 @@ Wygl¹da na to, ¿e nelantherscy piraci zaatakowali Doki Athkatli bez wyraŸnego po
 @10040 = ~Muszê wdro¿yæ plan awaryjny, gdy¿ nikt nie mo¿e siê dowiedzieæ, ¿e stoi za tym Calimport. Ten klejnot jest przecie¿ tak przydatny w pozyskiwaniu sprzymierzeñców! Naka¿ê nelantherskim piratom przypuœciæ atak na doki Athkatli. Sparali¿uj¹ szlaki handlowe i wezm¹ na siebie pe³n¹ odpowiedzialnoœæ za ten czyn. A ja tymczasem mam rachunki do wyrównania; i – jak zawsze – Entreri dzia³a w pojedynkê. Nie lêkajcie siê, podró¿nicy, bo kiedy siê spotkamy, za³atwimy to raz dwa.~
 @10041 = ~Obawiam siê, bracia, ¿e pope³niliœmy b³¹d w ocenie sytuacji.~
 @10042 = ~Wyjaœnij.~
-@10043 = ~Wyczuwam, ¿e z³o wcale nie nadci¹ga. Lecz.. ju¿ tu, w Amn, jest i wci¹¿ pozostaje bardzo silne. Wygl¹da na to, ¿e oskar¿enia wniesione przeciwko skazanej grupie by³y bezpodstawne. Musimy powiadomiæ Radê o tym b³êdzie, a tak¿e o istniej¹cym w dalszym ci¹gu z³u. Trzeba przeszukaæ Riatavin wzd³u¿ i wszerz.~
+@10043 = ~Wyczuwam, ¿e z³o wcale nie nadci¹ga. Ono ju¿ tu, w Amn, jest i wci¹¿ pozostaje bardzo silne. Wygl¹da na to, ¿e oskar¿enia wniesione przeciwko skazanej grupie by³y bezpodstawne. Musimy powiadomiæ Radê o tym b³êdzie, a tak¿e o istniej¹cym w dalszym ci¹gu z³u. Trzeba przeszukaæ Riatavin wzd³u¿ i wszerz.~
 @10044 = ~NIE! Muszê powiadomiæ pana, ¿e jego plan leg³ w gruzach, nim Athkatla przetrz¹œnie Riatavin.~
 @10045 = ~A jednak pod¹¿asz dalej. Zadziwiaj¹ce, jak daleko mo¿na siê zapuœciæ tylko po to, by daæ siê po¿reæ.~
 @10046 = ~A bodajbyœ sczez³, demoniczny czarcie. Samym gadaniem i szukaniem odpowiedzi niczego nie osi¹gniemy.~
@@ -164,7 +164,7 @@ Wygl¹da na to, ¿e nelantherscy piraci zaatakowali Doki Athkatli bez wyraŸnego po
 @10056 = ~Nie bêdê s³ucha³ twoich k³amstw. Czas, by dosiêg³a ciê sprawiedliwoœæ – odpowiesz za swoje czyny w wiêzieniu. STRA¯! Zabraæ tê osobê do aresztu!~
 @10057 = ~Macie czelnoœæ wdzieraæ siê do tych pradawnych grobowców?! S³ono zap³acicie za zak³ócenie naszego odrodzenia.~
 @10058 = ~Macie czelnoœæ nam groziæ? Moje ostrze sprawi, ¿e to wy zap³acicie za zamordowanie wielu niewinnych!~
-@10059 = ~Mocne s³owa, lecz to nasze „œrodki do ¿ycia”. ¯ywimy siê m³odymi, by zachowaæ si³ê; dla nas s¹ tylko „œrodkami do ¿ycia”.Gro¿¹c mi obna¿asz swoj¹ g³upotê.~
+@10059 = ~Mocne s³owa, lecz to nasze „Ÿród³a egzystencji”. ¯ywimy siê m³odymi, by zachowaæ si³ê; dla nas s¹ tylko „Ÿród³ami egzystencji”.Gro¿¹c mi obna¿asz swoj¹ g³upotê.~
 @10060 = ~Grrr... Doœæ ju¿ tych plugawych s³ów. Zginiesz od mojego ostrza, biesie. DO ATAKU!~
 @10061 = ~Nie! Thorknarze! Zginiesz w mêczarniach, biesie!~
 @10062 = ~Nie! Thorknarze! Zginiesz w mêczarniach, biesie!~
@@ -181,12 +181,12 @@ Wygl¹da na to, ¿e nelantherscy piraci zaatakowali Doki Athkatli bez wyraŸnego po
 @10073 = ~Nie... Nie zrobiê tego... Ja... ja...~
 @10074 = ~Widzisz? Nie potrafisz mi siê oprzeæ. A teraz siê odwróæ. Zabij swoich przyjació³. Wiem, ¿e posiadasz ogromn¹ moc. Wyczuwam w tobie bosk¹ krew. IdŸ, zg³adŸ swoich przyjació³ z wioski. Poka¿ mi swoje oddanie.~
 @10075 = ~Nie... Nie zrobiê tego... Ja... ja...~
-@10076 = ~Poka¿ê ci, czego od ciebie oczekujê.~
+@10076 = ~Poka¿ê ci, czego oczekujê.~
 @10077 = ~Twoja kolej. Wyr¿nij tych s³abych g³upców! Udowodnij swoj¹ wartoœæ.~
 @10078 = ~IdŸ wiêc i zabijaj! Twoi przyjaciele nie mog¹ ci pomóc – zastygli bowiem wraz z moim przebudzeniem. Bêd¹ tylko patrzeæ, jak w pojedynkê wyrzynasz ca³¹ wioskê!~
-@10079 = ~Beghaelu, zapomnia³eœ, po co ciê uwolniono. Mia³eœ wykonaæ swoje zadania, lecz zboczy³eœ z wyznaczonej drogi. Pan nie toleruje tych, którzy nie wywi¹zuj¹ siê z powierzonych im zadañ.~
+@10079 = ~Beghaelu, zapomnia³eœ, po co ciê uwolniono. Mia³eœ misjê do zrealizowania, lecz zboczy³eœ z wyznaczonej drogi. Pan nie toleruje tych, którzy nie wywi¹zuj¹ siê z powierzonych im zadañ.~
 @10080 = ~Co?! Odzyskaliœcie wolnoœæ, a teraz chcecie w zamian oddaæ siê w niewolê? Postradaliœcie rozum? Ja nie dam siê tak ³atwo zniewoliæ. Nie jestem a¿ tak s³aby.~
-@10081 = ~Nie masz wyboru, Beghaelu. Jesteœ zwi¹zany z reliktem, a pan mo¿e w ka¿dej chwili odes³aæ ciê z powrotem na wieczne mêki. Rozs¹dniej bêdzie, jeœli us³uchasz.~
+@10081 = ~Nie masz wyboru, Beghaelu. Jesteœ zwi¹zany z reliktem, a pan mo¿e w ka¿dej chwili skazaæ ciê na powrót do wiecznych cierpieñ. Rozs¹dniej bêdzie, jeœli us³uchasz.~
 @10082 = ~Potraktuj to jako ostatnie ostrze¿enie, Beghaelu! Dla pana jesteœ tylko narzêdziem. Jeœli odmówisz, nie bêdzie mieæ z ciebie po¿ytku i po prostu siê ciebie pozbêdzie.~
 @10083 = ~Wszyscy jesteœcie s³abi; zbyt s³abi, by byæ godnymi mojego spojrzenia. Zostaliœcie ostrze¿eni. Wynoœcie siê, albo nakarmiê siê waszymi duszami.~
 @10084 = ~To twoja ostatnia szansa, Beghaelu. Podporz¹dkuj siê.~
@@ -245,16 +245,16 @@ Wygl¹da na to, ¿e nelantherscy piraci zaatakowali Doki Athkatli bez wyraŸnego po
 @10137 = ~Co to, na Dziewiêæ Piekie³, jest?~
 @10138 = ~Szybko! Ktoœ naje¿d¿a Doki!~
 @10139 = ~Naje¿d¿a?! Któ¿ taki?~
-@10140 = ~Nelantherscy piraci... i to wszyscy, jak mo¿na dostrzec.~
+@10140 = ~Nelantherscy piraci... i to wszyscy, s¹dz¹c po tym, co widzieliœmy.~
 @10141 = ~Mówi prawdê. To dowodzi,, jak wielki b³¹d pope³niliœcie, obwiniaj¹c nas.~
 @10142 = ~Szlag! Wybaczcie, ¿e tak bardzo siê pomyliliœmy, teraz jednak musimy siê przygotowaæ. Oni ju¿ tu niemal s¹. Spójrzcie! Widzê ich w oddali. Przygotujcie siê do starcia!~
 @10143 = ~Wyczuwam w pobli¿u ogromn¹ moc. Musimy ruszyæ dalej w g³¹b jaskini.~
 @10144 = ~Podró¿nicy, wykazaliœcie siê dziœ wielk¹ odwag¹ i kunsztem w walce. Ocaliliœcie Doki przed niebezpieczeñstwem, choæ trudno oczekiwaæ, ¿e szybko wybaczycie nam to, jak was wczeœniej potraktowaliœmy.~
-@10145 = ~Wasze zarzuty okaza³y siê bezpodstawne... nie ma jednak tego z³ego co by na dobre nie wysz³o.~
+@10145 = ~Wasze zarzuty okaza³y siê bezpodstawne... nie ma jednak tego z³ego, co by na dobre nie wysz³o.~
 @10146 = ~Zyskujesz dziœ przychylnoœæ Z³odziei Cienia. W dowód uznania naszej gildii pragniemy ofiarowaæ ci ten artefakt. Nawet z³odzieje maj¹ swój honor, a utrzymywanie dobrych relacji z kimœ tak potê¿nym le¿y w naszym interesie.~
 @10147 = ~Istotnie. Nikt nie przeœcignie we wdziêcznoœci Zakonu Promiennego Serca. Przyjmij od nas ten kunsztownie wykonany przedmiot. Bez czasu na przygotowania trudno by³oby nam samotnie odeprzeæ ten atak.~
 @10148 = ~Pomimo poczucia doznanej krzywdy, cieszê siê, ¿e miasto najwyraŸniej zrozumia³o swój b³¹d. Przyjmujê wasze dary i mam nadziejê, ¿e odt¹d bêdziemy mogli przechadzaæ siê tymi ulicami bez podejrzliwych spojrzeñ.~
-@10149 = ~Dopilnujemy, by odt¹d traktowano ciê z nale¿nym szacunkiem. Nie liczy³bym jednak na œwiêty spokój. Nie minê³o wiele czasu, a ju¿ dotar³y do mnie wieœci, ¿e sporo grup poszukuje ciê do zadañ, które najbardziej odpowiadaj¹ poszukiwaczom przygód takim jak ty. Wygl¹da na to, ¿e zleceñ jeszcze d³ugo ci nie zabraknie, a ja ¿ywiê nadziejê, ¿e nasze dary dobrze ci pos³u¿¹.~
+@10149 = ~Dopilnujemy, by odt¹d traktowano was z nale¿nym szacunkiem. Nie liczy³bym jednak na œwiêty spokój. Nie minê³o wiele czasu, a ju¿ dotar³y do mnie wieœci, ¿e sporo grup poszukuje was do zadañ, które najbardziej odpowiadaj¹ poszukiwaczom przygód jak wy. Wygl¹da na to, ¿e zleceñ jeszcze d³ugo wam nie zabraknie, a ja ¿ywiê nadziejê, ¿e nasze dary dobrze wam pos³u¿¹.~
 @10150 = ~Nie... Nie. NIEEEEEE!~
 @10151 = ~Te drzwi s¹ zamkniête. Bêdziesz potrzebowaæ klucza, by dostaæ siê do nastêpnego pomieszczenia.~
 @10152 = ~Gdy wk³adasz klucz do zamka, ten znika w niewielkim rozb³ysku œwiat³a, a drzwi otwieraj¹ siê same.~
@@ -284,9 +284,9 @@ Wygl¹da na to, ¿e nelantherscy piraci zaatakowali Doki Athkatli bez wyraŸnego po
 @10176 = ~Co... Co siê dzieje?! Umieram! Nie! Aa... Aaa!~
 @10177 = ~Grrr...~
 @10178 = ~Milczeæ, nêdzne demony!~
-@10179 = ~Dawno ju¿ nie widzia³em kogoœ takiego jak ty. Muszê przyznaæ, ¿e ca³e wieki czeka³em na tê chwilê.~
+@10179 = ~Dawno ju¿ nie widzia³em nikogo takiego jak ty. Muszê przyznaæ, ¿e ca³e wieki czeka³em na tê chwilê.~
 @10180 = ~Masz w ogóle pojêcie, kim jestem? Zapewniam ciê, ¿e czekam znacznie d³u¿ej ni¿ ty. Rozs¹dnym by³oby zejœæ mi z drogi.~
-@10181 = ~Œmiesz mi groziæ? Jestem równie wiekowy jak sam czas. Widzia³em narodziny œwiata, którym pragniesz zaw³adn¹æ. Znam te¿ twój rodzaj.~
+@10181 = ~Œmiesz mi groziæ? Jestem równie wiekowy jak sam czas. Widzia³em narodziny planety, któr¹ pragniesz zaw³adn¹æ. Znam te¿ twój rodzaj.~
 @10182 = ~Wiem, ¿e niemal nie sposób zniszczyæ ani ciebie, ani samego czasu. Tyle ¿e w³aœnie widzia³em twoje narodziny, a twój czas jeszcze nie nadszed³.~
 @10183 = ~Jesteœ tylko kolejn¹ przeszkod¹ na mojej drodze, nêdzny demonie. Pokonam ciê.~
 @10184 = ~Demonie?! DEMONIE?! Nie jestem ¿adnym demonem, g³upcze! Te marne stworzenia s³u¿¹ mi, bo nie maj¹ wyboru. To moja sfera! Jam jest Carceri, Zabójca Demonów! Œmiesz porównywaæ mnie do tych... nêdzników?~
@@ -298,11 +298,11 @@ Wygl¹da na to, ¿e nelantherscy piraci zaatakowali Doki Athkatli bez wyraŸnego po
 @10190 = ~Aaa! Pomocy!~
 @10191 = ~OdejdŸ ode mnie, plugawy wieprzu!~
 @10192 = ~No proszê... piêkna drowka, a do tego z pazurem. Ju¿ ja ci poka¿ê, jak nale¿y okazywaæ mi szacunek, ty czarna suko.~
-@10193 = ~Trzymaj siê ode mnie z daleka, wieprzu! Mam zwi¹zane za plecami rêce. Jeœli jesteœ mê¿czyzn¹, rozwi¹¿ mnie i poka¿, ile naprawdê jesteœ wart w walce.~
+@10193 = ~Trzymaj siê ode mnie z daleka, wieprzu! Mam skrêpowane za plecami rêce. Jeœli jesteœ mê¿czyzn¹, rozwi¹¿ mnie i poka¿, ile naprawdê jesteœ wart w walce.~
 @10194 = ~Nie szukam bójki, drowko. Zaraz poka¿ê ci, czego szukam... czego chcê... i bêdê to robi³ a¿ po œwit!~
 @10195 = ~Nie... Nie. NIEEEEEE!~
-@10196 = ~Viconio, wszystko w porz¹dku? S³ysza³em, jak krzycza³aœ. Torturowali ciê?~ ~Viconio, wszystko w porz¹dku? S³ysza³am, jak krzycza³aœ. Torturowali ciê?~
-@10197 = ~Tortury by³yby bez porównania lepsze. Ten stra¿nik... on... on mnie zgwa³ci³. Ten plugawy cz³owiek zgwa³ci³ mnie, kiedy mia³am zwi¹zane za plecami rêce. Nie mog³am nic zrobiæ.~
+@10196 = ~Wszystko w porz¹dku, Viconio? S³ysza³em, jak krzycza³aœ. Torturowali ciê?~ ~Wszystko w porz¹dku, Viconio? S³ysza³am, jak krzycza³aœ. Torturowali ciê?~
+@10197 = ~Tortury by³yby bez porównania lepsze. Ten stra¿nik... on... on mnie zgwa³ci³. Ten plugawy cz³owiek zgwa³ci³ mnie, kiedy mia³am skrepowane za plecami rêce. Nie mog³am nic zrobiæ.~
 @10198 = ~Na bogów... Viconio, tak mi przykro. Znajdziemy sposób, aby pomœciæ twoj¹ krzywdê!~
 @10199 = ~Zhañbi³ mnie cz³owiek. Nie spocznê, póki jego skóra nie zawiœnie na mojej œcianie, bym nigdy nie zapomnia³a, do jakiego z³a zdolne s¹ rasy z powierzchni.~
 @10200 = ~Cieszê siê, ¿e mo¿emy spêdziæ ten czas razem, nie miej jednak z³udzeñ. To tylko sposób, by daæ upust napiêciu. Nic wiêcej z tego nie wyniknie.~
